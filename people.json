@@ -14,13 +14,6 @@
     "city": "alex"
   },
   {
-    "id": 3,
-    "firstName": "Alaa",
-    "lastName": "Nasser",
-    "age": 1,
-    "city": "cairo"
-  },
-  {
     "id": 4,
     "firstName": "Samah",
     "lastName": "Nasser",
@@ -65,8 +58,8 @@
   {
     "id": 10,
     "firstName": "Ali",
-    "lastName": "Nasser",
-    "age": 1,
+    "lastName": "Salem",
+    "age": 23,
     "city": "cairo"
   }
 ]
